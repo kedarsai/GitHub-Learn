@@ -87,6 +87,6 @@ if __name__ == "__main__":
 
     printGraph(triples)
     print('Done')
-
+print('Finallly Completed')
     
 
